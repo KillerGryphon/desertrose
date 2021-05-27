@@ -385,12 +385,6 @@
 	icon_state = "ncr_armor"
 	item_state = "ncr_armor"
 
-/obj/item/clothing/suit/armor/f13/combat/ncr/mutant
-	name = "NCR mutant armor"
-	desc = "(V) Multiple sets of NCR patrol vests that have been fused, stitched and welded together in order to fit the frame of a Super Mutant."
-	icon_state = "mutie_ncr"
-	item_state = "mutie_ncr"
-
 /obj/item/clothing/suit/armor/f13/combat/mk2/ncr
 	name = "reinforced NCR combat armor"
 	desc = "(VI) A reinforced set of bracers, greaves, and torso plating of prewar design. This one is kitted with additional plates and, repainted to the colour scheme of the New California Republic."
@@ -458,7 +452,7 @@
 
 /obj/item/clothing/suit/armor/f13/combat/ncr_patrol/mutant
 	name = "mutant ranger armor"
-	desc = "(V) A set of standard issue ranger patrol armor that provides defense similar to a suit of pre-war combat armor. It's got NCR markings, making it clear who it was made by."
+	desc = "(V) A set of standard issue ranger patrol armor that provides defense similar to a suit of pre-war combat armor, but fitted for a Super Mutant to wear. It's got NCR markings, making it clear who it was made by."
 	icon_state = "mutie_ranger_armour"
 	item_state = "mutie_ranger_armour"
 
