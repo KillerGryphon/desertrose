@@ -466,12 +466,6 @@
 	item_state = "ncr_patrol"
 	armor = list("tier" = 5, "energy" = 45, "bomb" = 55, "bio" = 60, "rad" = 15, "fire" = 60, "acid" = 30)
 
-/obj/item/clothing/suit/armor/f13/combat/ncr_patrol/mutant
-	name = "mutant ranger armor"
-	desc = "(V) A set of standard issue ranger patrol armor that provides defense similar to a suit of pre-war combat armor. It's got NCR markings, making it clear who it was made by."
-	icon_state = "mutie_ranger_armour"
-	item_state = "mutie_ranger_armour"
-
 /obj/item/clothing/suit/armor/f13/combat/ncr_patrol/thax
 	name = "modified patrol armor"
 	desc = "A customized and moderately-worn suit of patrol ranger armor. A sun-worn thick olive duster is worn over the armor."
@@ -764,6 +758,12 @@
 	item_state = "ncr_armor9"
 	armor = list("tier" = 4, "energy" = 10, "bomb" = 20, "bio" = 0, "rad" = 30, "fire" = 10, "acid" = 10) //Better radiation protection, thank the facewrap bro!
 	icon = 'icons/fallout/clothing/suits.dmi'
+
+/obj/item/clothing/suit/armor/f13/combat/ncr_patrol/mutant
+	name = "super mutant ranger armor"
+	desc = "(V) A set of standard issue ranger patrol armor that provides defense similar to a suit of pre-war combat armor. It's got NCR markings, making it clear who it was made by."
+	icon_state = "mutie_ranger_icon"
+	item_state = "mutie_ranger_armour"
 
 //Enclave/Remnants
 
