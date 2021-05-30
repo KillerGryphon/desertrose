@@ -4,7 +4,7 @@ obj/item/clothing/suit/armor/f13/combat/ncr_smranger
 	icon_state = "smranger_icon"
 	item_state = "smranger"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 6, "melee" = 50, "bullet" = 50, "laser" = 50, "energy" = 50, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
 obj/item/clothing/suit/armor/f13/combat/smncr
@@ -13,7 +13,7 @@ obj/item/clothing/suit/armor/f13/combat/smncr
 	icon_state = "smncr_icon"
 	item_state = "smncr"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 5, "melee" = 45, "bullet" = 45, "laser" = 45, "energy" = 45, "bomb" = 55, "bio" = 60, "rad" = 15, "fire" = 60, "acid" = 30)
 
 obj/item/clothing/suit/armor/f13/combat/smwarrior
@@ -22,7 +22,7 @@ obj/item/clothing/suit/armor/f13/combat/smwarrior
 	icon_state = "smwarrior_icon"
 	item_state = "smwarrior"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 5, "melee" = 45, "bullet" = 45, "laser" = 45, "energy" = 45, "bomb" = 55, "bio" = 60, "rad" = 15, "fire" = 60, "acid" = 30)
 
 obj/item/clothing/suit/armor/f13/combat/smlt
@@ -31,7 +31,7 @@ obj/item/clothing/suit/armor/f13/combat/smlt
 	icon_state = "smlieutenant_icon"
 	item_state = "smlieutenant"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 7, "melee" = 55, "bullet" = 55, "laser" = 55, "energy" = 55, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
 obj/item/clothing/suit/armor/f13/combat/smgladiator
@@ -40,7 +40,7 @@ obj/item/clothing/suit/armor/f13/combat/smgladiator
 	icon_state = "smgladiator_icon"
 	item_state = "smgladiator"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 6, "melee" = 50, "bullet" = 50, "laser" = 50, "energy" = 50, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
 /obj/item/clothing/suit/armor/f13/smleather
@@ -49,7 +49,7 @@ obj/item/clothing/suit/armor/f13/combat/smgladiator
 	icon_state = "smleather_icon"
 	item_state = "smleather"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 3, "melee" = 35, "bullet" = 35, "laser" = 35, "energy" = 35, "bomb" = 35, "bio" = 40, "rad" = 10, "fire" = 60, "acid" = 10)
 
 /obj/item/clothing/under/f13/smcasual
@@ -58,7 +58,7 @@ obj/item/clothing/suit/armor/f13/combat/smgladiator
 	icon_state = "smcasual1_icon"
 	item_state = "smcasual1"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 1, "melee" = 5, "bullet" = 5, "laser" = 5, "energy" = 5, "bomb" = 5, "bio" = 0, "rad" = 30, "fire" = 20, "acid" = 0)
 
 /obj/item/clothing/under/f13/smvault
@@ -67,7 +67,7 @@ obj/item/clothing/suit/armor/f13/combat/smgladiator
 	icon_state = "smvaultjumpsuit_icon"
 	item_state = "smvaultjumpsuit"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 1, "melee" = 5, "bullet" = 5, "laser" = 5, "energy" = 5, "bomb" = 5, "bio" = 0, "rad" = 30, "fire" = 20, "acid" = 0)
 
 /obj/item/clothing/suit/armor/f13/smyeti
@@ -76,7 +76,7 @@ obj/item/clothing/suit/armor/f13/combat/smgladiator
 	icon_state = "smyeti_icon"
 	item_state = "smyeti"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 3, "melee" = 35, "bullet" = 35, "laser" = 35, "energy" = 35, "bomb" = 35, "bio" = 40, "rad" = 10, "fire" = 60, "acid" = 10)
 
 obj/item/clothing/suit/armor/f13/combat/nkwarrior
@@ -85,7 +85,7 @@ obj/item/clothing/suit/armor/f13/combat/nkwarrior
 	icon_state = "nkwarrior_icon"
 	item_state = "nkwarrior"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 5, "melee" = 45, "bullet" = 45, "laser" = 45, "energy" = 45, "bomb" = 55, "bio" = 60, "rad" = 15, "fire" = 60, "acid" = 30)
 
 obj/item/clothing/suit/armor/f13/combat/nkcmmdo
@@ -94,7 +94,7 @@ obj/item/clothing/suit/armor/f13/combat/nkcmmdo
 	icon_state = "nkcommando_icon"
 	item_state = "nkcommando"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 6, "melee" = 50, "bullet" = 50, "laser" = 50, "energy" = 50, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
 obj/item/clothing/suit/armor/f13/combat/nkchief
@@ -103,7 +103,7 @@ obj/item/clothing/suit/armor/f13/combat/nkchief
 	icon_state = "nkchief_icon"
 	item_state = "nkchief"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 7, "melee" = 55, "bullet" = 55, "laser" = 55, "energy" = 55, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
 obj/item/clothing/suit/armor/f13/combat/smcrusher
@@ -112,10 +112,10 @@ obj/item/clothing/suit/armor/f13/combat/smcrusher
 	icon_state = "smcrusher_icon"
 	item_state = "smcrusher"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
-	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
+	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 5, "melee" = 60, "bullet" = 40, "laser" = 40, "energy" = 40, "bomb" = 55, "bio" = 60, "rad" = 15, "fire" = 60, "acid" = 30)
 
-obj/item/clothing/suit/armor/f13/hair/smmohawk
+obj/item/clothing/head/helmet/f13/smmohawk
 	name = "super mutant mohawk wig"
 	desc = "A wig fit for a super mutant, this one is in the style of a mohawk, rock on!"
 	icon_state = "smmohawk_icon"
@@ -123,7 +123,7 @@ obj/item/clothing/suit/armor/f13/hair/smmohawk
 	body_parts_covered = HEAD
 	flags_inv = HIDEEARS|HIDEEYES|HIDEHAIR
 
-obj/item/clothing/suit/armor/f13/hair/smmohawk
+obj/item/clothing/head/helmet/f13/smmohawk
 	name = "super mutant flattop wig"
 	desc = "A wig fit for a super mutant, this one is in the style of a flattop, watch the trim."
 	icon_state = "smflattop_icon"
@@ -131,7 +131,7 @@ obj/item/clothing/suit/armor/f13/hair/smmohawk
 	body_parts_covered = HEAD
 	flags_inv = HIDEEARS|HIDEEYES|HIDEHAIR
 
-obj/item/clothing/suit/armor/f13/hair/smmohawk
+obj/item/clothing/head/helmet/f13/smmohawk
 	name = "super mutant warrior armor"
 	desc = "A wig fit for a super mutant, this one is long and wild, are you swinging for vines or for veins?"
 	icon_state = "smlonghair_icon"
