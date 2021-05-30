@@ -32,7 +32,7 @@ obj/item/clothing/suit/armor/f13/combat/smlt
 	item_state = "smlieutenant"
 	body_parts_covered = HEAD|CHEST|GROIN|LEGS|FEET|ARMS|HANDS
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEFEET|HIDEHANDS|HIDEEARS|HIDEEYES|HIDEHAIR
-	armor = list("tier" = 7, melee" = 55, "bullet" = 55, "laser" = 55, "energy" = 55, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
+	armor = list("tier" = 7, "melee" = 55, "bullet" = 55, "laser" = 55, "energy" = 55, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
 obj/item/clothing/suit/armor/f13/combat/smgladiator
 	name = "super mutant gladiator armor"
