@@ -98,7 +98,7 @@ obj/item/clothing/smarmor/armor/nkcmmdo
 	armor = list("tier" = 6, "melee" = 50, "bullet" = 50, "laser" = 50, "energy" = 50, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
 obj/item/clothing/smarmor/armor/nkchief
-	name = "super mutant lieutenant armor"
+	name = "night kin chief armor"
 	desc = "(VII) The Master's army once had many night kin assassins, and this set of armor belongs to one of their commanders, who now lead other night kin."
 	icon_state = "nkchief_icon"
 	item_state = "nkchief"
@@ -107,7 +107,7 @@ obj/item/clothing/smarmor/armor/nkchief
 	armor = list("tier" = 7, "melee" = 55, "bullet" = 55, "laser" = 55, "energy" = 55, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
 obj/item/clothing/smarmor/armor/smcrusher
-	name = "super mutant warrior armor"
+	name = "super mutant crusher armor"
 	desc = "(V) A set of armor fit for a super mutant specializing in melee combat. Don't let them get too close!"
 	icon_state = "smcrusher_icon"
 	item_state = "smcrusher"
