@@ -1,4 +1,4 @@
-obj/item/clothing/suit/ncr_smranger
+obj/item/clothing/smarmor/ncr_smranger
 	name = "super mutant ranger armor"
 	desc = "(VI) What looks to be NCR Ranger armor and clothing, specially made for the bulk of a Super Mutant, with added protection due to it's size."
 	icon_state = "smranger_icon"
@@ -7,7 +7,7 @@ obj/item/clothing/suit/ncr_smranger
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 6, "melee" = 50, "bullet" = 50, "laser" = 50, "energy" = 50, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
-obj/item/clothing/suit/smncr
+obj/item/clothing/smarmor/smncr
 	name = "super mutant ncr armor"
 	desc = "(V) This ncr patrol vest has been stretched, torn, and manipulated to fit a super mutant trooper."
 	icon_state = "smncr_icon"
@@ -16,7 +16,7 @@ obj/item/clothing/suit/smncr
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 5, "melee" = 45, "bullet" = 45, "laser" = 45, "energy" = 45, "bomb" = 55, "bio" = 60, "rad" = 15, "fire" = 60, "acid" = 30)
 
-obj/item/clothing/suit/smwarrior
+obj/item/clothing/smarmor/smwarrior
 	name = "super mutant warrior armor"
 	desc = "(V) A combination of metal plates, tires, and rags fit to turn a Super Mutant into an armored combatant."
 	icon_state = "smwarrior_icon"
@@ -25,7 +25,7 @@ obj/item/clothing/suit/smwarrior
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 5, "melee" = 45, "bullet" = 45, "laser" = 45, "energy" = 45, "bomb" = 55, "bio" = 60, "rad" = 15, "fire" = 60, "acid" = 30)
 
-obj/item/clothing/suit/smlt
+obj/item/clothing/smarmor/smlt
 	name = "super mutant lieutenant armor"
 	desc = "(VII) A forged suit of armor made for the bulk of a Super Mutant, a high ranking one in The Master's army."
 	icon_state = "smlieutenant_icon"
@@ -34,7 +34,7 @@ obj/item/clothing/suit/smlt
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 7, "melee" = 55, "bullet" = 55, "laser" = 55, "energy" = 55, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
-obj/item/clothing/suit/smgladiator
+obj/item/clothing/smarmor/smgladiator
 	name = "super mutant gladiator armor"
 	desc = "(VI) An armored super mutant is bad enough, but this one make a super mutant HEAVILY armored. Better place some sandbags right about now."
 	icon_state = "smgladiator_icon"
@@ -43,7 +43,7 @@ obj/item/clothing/suit/smgladiator
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 6, "melee" = 50, "bullet" = 50, "laser" = 50, "energy" = 50, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
-/obj/item/clothing/suit/smleather
+/obj/item/clothing/smarmor/smleather
 	name = "super mutant leather armor"
 	desc = "(III) A combination of leather and metal plating, this leather armor fits only the bulk of a super mutant comfortably. Sadly, aiming at the exposed flesh won't make much difference to their victims."
 	icon_state = "smleather_icon"
@@ -52,7 +52,7 @@ obj/item/clothing/suit/smgladiator
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 3, "melee" = 35, "bullet" = 35, "laser" = 35, "energy" = 35, "bomb" = 35, "bio" = 40, "rad" = 10, "fire" = 60, "acid" = 10)
 
-/obj/item/clothing/under/f13/smcasual
+/obj/item/clothing/smarmor/f13/smcasual
 	name = "super mutant clothing"
 	desc = "A pair of large jeans and a large tattered tanktop that now serves as clothing for a super mutant."
 	icon_state = "smcasual1_icon"
@@ -61,7 +61,7 @@ obj/item/clothing/suit/smgladiator
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 1, "melee" = 5, "bullet" = 5, "laser" = 5, "energy" = 5, "bomb" = 5, "bio" = 0, "rad" = 30, "fire" = 20, "acid" = 0)
 
-/obj/item/clothing/under/f13/smvault
+/obj/item/clothing/smarmor/f13/smvault
 	name = "super mutant clothing"
 	desc = "Fresh out of the FEV vat, this super mutant vault jumpsuit has been torn due to the mutations."
 	icon_state = "smvaultjumpsuit_icon"
@@ -70,7 +70,7 @@ obj/item/clothing/suit/smgladiator
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 1, "melee" = 5, "bullet" = 5, "laser" = 5, "energy" = 5, "bomb" = 5, "bio" = 0, "rad" = 30, "fire" = 20, "acid" = 0)
 
-/obj/item/clothing/suit/smyeti
+/obj/item/clothing/smarmor/smyeti
 	name = "super mutant yeti armor"
 	desc = "(III) An oddly familiar set of clothing that is mostly rags, the only armor being a sign strapped to an arm like a shield."
 	icon_state = "smyeti_icon"
@@ -79,7 +79,7 @@ obj/item/clothing/suit/smgladiator
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 3, "melee" = 35, "bullet" = 35, "laser" = 35, "energy" = 35, "bomb" = 35, "bio" = 40, "rad" = 10, "fire" = 60, "acid" = 10)
 
-obj/item/clothing/suit/nkwarrior
+obj/item/clothing/smarmor/nkwarrior
 	name = "night kin warrior armor"
 	desc = "(V) Rags covering metal plating that armor this night kin for combat."
 	icon_state = "nkwarrior_icon"
@@ -88,7 +88,7 @@ obj/item/clothing/suit/nkwarrior
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 5, "melee" = 45, "bullet" = 45, "laser" = 45, "energy" = 45, "bomb" = 55, "bio" = 60, "rad" = 15, "fire" = 60, "acid" = 30)
 
-obj/item/clothing/suit/nkcmmdo
+obj/item/clothing/smarmor/nkcmmdo
 	name = "night kin commando armor"
 	desc = "(VI) Combat armor that has been painted and fitted for a night kin to fight in stealth... as stealthfully as a super mutant can be."
 	icon_state = "nkcommando_icon"
@@ -97,7 +97,7 @@ obj/item/clothing/suit/nkcmmdo
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 6, "melee" = 50, "bullet" = 50, "laser" = 50, "energy" = 50, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
-obj/item/clothing/suit/nkchief
+obj/item/clothing/smarmor/nkchief
 	name = "super mutant lieutenant armor"
 	desc = "(VII) The Master's army once had many night kin assassins, and this set of armor belongs to one of their commanders, who now lead other night kin."
 	icon_state = "nkchief_icon"
@@ -106,7 +106,7 @@ obj/item/clothing/suit/nkchief
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 7, "melee" = 55, "bullet" = 55, "laser" = 55, "energy" = 55, "bomb" = 60, "bio" = 65, "rad" = 20, "fire" = 65, "acid" = 35)
 
-obj/item/clothing/suit/smcrusher
+obj/item/clothing/smarmor/smcrusher
 	name = "super mutant warrior armor"
 	desc = "(V) A set of armor fit for a super mutant specializing in melee combat. Don't let them get too close!"
 	icon_state = "smcrusher_icon"
@@ -115,7 +115,7 @@ obj/item/clothing/suit/smcrusher
 	flags_inv = HIDEJUMPSUIT|HIDENECK|HIDEEARS|HIDEEYES|HIDEHAIR
 	armor = list("tier" = 5, "melee" = 60, "bullet" = 40, "laser" = 40, "energy" = 40, "bomb" = 55, "bio" = 60, "rad" = 15, "fire" = 60, "acid" = 30)
 
-obj/item/clothing/head/smmohawk
+obj/item/clothing/smarmor/smmohawk
 	name = "super mutant mohawk wig"
 	desc = "A wig fit for a super mutant, this one is in the style of a mohawk, rock on!"
 	icon_state = "smmohawk_icon"
@@ -123,7 +123,7 @@ obj/item/clothing/head/smmohawk
 	body_parts_covered = HEAD
 	flags_inv = HIDEEARS|HIDEEYES|HIDEHAIR
 
-obj/item/clothing/head/smmohawk
+obj/item/clothing/smarmor/smmohawk
 	name = "super mutant flattop wig"
 	desc = "A wig fit for a super mutant, this one is in the style of a flattop, watch the trim."
 	icon_state = "smflattop_icon"
@@ -131,7 +131,7 @@ obj/item/clothing/head/smmohawk
 	body_parts_covered = HEAD
 	flags_inv = HIDEEARS|HIDEEYES|HIDEHAIR
 
-obj/item/clothing/head/smmohawk
+obj/item/clothing/smarmor/smmohawk
 	name = "super mutant warrior armor"
 	desc = "A wig fit for a super mutant, this one is long and wild, are you swinging for vines or for veins?"
 	icon_state = "smlonghair_icon"
